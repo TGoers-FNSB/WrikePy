@@ -1,5 +1,5 @@
 import requests
-from helpers import *
+from .helpers import *
 from datetime import datetime
 
 class Wrike:

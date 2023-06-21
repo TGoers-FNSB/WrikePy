@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: WrikePy
-Version: 1.0.1
+Version: 1.0.4
 Summary: A Python wrapper for the Wrike API.
 Home-page: https://github.com/TGoers-FNSB/WrikePy
 Author: T. Goers
@@ -19,7 +19,7 @@ WrikePy is a Python Wrapper for the [Wrike.com](https://www.wrike.com/) API.
 ## Getting Started
 ### Import WrikePy
 ```python
-from wrikepy import *
+from WrikePy import *
 ```
 ### Initialize API
 Every Wrike API call requires a Wrike object parameter in order to send a request.

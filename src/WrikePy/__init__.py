@@ -1,2 +1,2 @@
-from .wrikepy import Wrike
+from .wrikepy import *
 from .helpers import *

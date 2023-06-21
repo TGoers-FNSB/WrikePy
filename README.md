@@ -4,7 +4,7 @@ WrikePy is a Python Wrapper for the [Wrike.com](https://www.wrike.com/) API.
 ## Getting Started
 ### Import WrikePy
 ```python
-from wrikepy import *
+from WrikePy import *
 ```
 ### Initialize API
 Every Wrike API call requires a Wrike object parameter in order to send a request.
